@@ -9,10 +9,9 @@ function Footer() {
   return (
     <FooterSection>
       <div>
-        <h3>Gusberly Morillo</h3>
-      </div>
-      <div>
-        <h3>Gracias por visitar mi sitio web</h3>
+        <h3>
+          <em>Gracias por visitar mi sitio web ❤️</em>
+        </h3>
       </div>
     </FooterSection>
   );

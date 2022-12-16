@@ -10,13 +10,13 @@ function NavBar() {
       transition={{ duration: 2.2 }}
     >
       <Nav>
-        <FiHome size={30} style={{ color: "#48404d" }} />
+        <FiHome size={30} style={{ color: "#02113e" }} />
         <Enlace href="#home">Inicio</Enlace>
-        <FiUser size={30} style={{ color: "#48404d" }} />
+        <FiUser size={30} style={{ color: "#02113e" }} />
         <Enlace href="#about">Sobre Mi</Enlace>
-        <FiPaperclip size={30} style={{ color: "#48404d" }} />
+        <FiPaperclip size={30} style={{ color: "#02113e" }} />
         <Enlace href="#projects">Proyectos</Enlace>
-        <FiPhone size={30} style={{ color: "#48404d" }} />
+        <FiPhone size={30} style={{ color: "#02113e" }} />
         <Enlace href="#contact">Contacto</Enlace>
       </Nav>
     </ContainerNav>

@@ -95,9 +95,9 @@ export const Dowload = styled.a`
   border-radius: 5px;
   transition: all 0.5s ease-in-out;
   :hover {
-    box-shadow: inset 12em 0 #48404d;
+    box-shadow: inset 12em 0 #02113e;
     cursor: pointer;
-    color: black;
+    color: white;
     border: none;
   }
 `;

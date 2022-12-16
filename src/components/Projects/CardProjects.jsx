@@ -51,7 +51,7 @@ const EnlaceCards = styled.a`
   background-color: white;
   border-radius: 10px;
   :hover {
-    background-color: #48404d;
+    background-color: #02113e;
     transition: 1s;
     color: white;
     cursor: pointer;

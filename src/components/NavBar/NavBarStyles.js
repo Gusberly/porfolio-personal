@@ -60,7 +60,7 @@ export const Enlace = styled.a`
   transition: all 0.3s ease-in-out;
   :before {
     content: "";
-    background: #48404d;
+    background: #02113e;
     display: block;
     position: absolute;
     bottom: -3px;

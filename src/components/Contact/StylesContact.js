@@ -26,7 +26,7 @@ export const SocialCard = styled.div`
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: 300px;
+  height: 200px;
   filter: grayscale(0);
   background-color: ${(props) =>
     props.CardBg === "Linkedin"
