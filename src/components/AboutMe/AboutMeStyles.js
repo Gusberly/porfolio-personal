@@ -43,8 +43,8 @@ export const Img = styled(motion.img)`
   width: 300px;
   height: 250px;
   @media (min-width: 768px) {
-    width: 320px;
-    height: 380px;
+    width: 280px;
+    height: 350px;
   }
   border-radius: 50%;
   border: 1px solid gray;

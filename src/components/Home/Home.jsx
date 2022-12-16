@@ -1,5 +1,5 @@
 import React from "react";
-import avatar from "../../Imagenes/programa.png";
+import perfil from "../../Imagenes/programa.png";
 import { FaLinkedin, FaWhatsappSquare } from "react-icons/fa";
 import { Cursor, useTypewriter } from "react-simple-typewriter";
 import { ImGithub } from "react-icons/im";
@@ -20,7 +20,7 @@ export function Home() {
     <Container id="home">
       <Bg></Bg>
       <Centered>
-        <Logo src={avatar} alt="smile" />
+        <Logo src={perfil} alt="perfil" />
         <div>
           <h1>
             <span>{text}</span>
