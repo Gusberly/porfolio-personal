@@ -41,6 +41,12 @@ function Projects() {
           projects={projects.scriptmusic}
           description={"ScriptMusic"}
         ></Card>
+        <Card
+          repository={"https://github.com/Gusberly/Calculadora"}
+          url={"https://calculadora-neon-one.vercel.app/"}
+          projects={projects.calculadora}
+          description={"Calculadora"}
+        ></Card>
       </GridProjects>
     </ProjectsSection>
   );

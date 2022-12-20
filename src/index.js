@@ -16,6 +16,7 @@ import trello from "./Imagenes/trello.png";
 
 import pokemon from "./Imagenes/pokemon.png";
 import scriptmusic from "./Imagenes/scriptmusic.png";
+import calculadora from "./Imagenes/calculadora.png";
 
 export const imgtech = {
   html,
@@ -37,4 +38,5 @@ export const imgtech = {
 export const projects = {
   pokemon,
   scriptmusic,
+  calculadora,
 };
